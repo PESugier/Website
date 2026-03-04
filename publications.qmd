@@ -1,0 +1,199 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: false
+    css: pubs.css
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+library(RefManageR)
+library(dplyr)
+library(stringr)
+library(htmltools)
+library(purrr)
+library(tibble)
+
+bib <- ReadBib("bibliography/publications_sugier.bib", check = FALSE)
+df <- as.data.frame(bib) |> as_tibble()
+
+# Colonnes attendues (créées si absentes)
+need_cols <- c("year","keywords","title","journal","volume","number","pages","doi","url","author")
+for (nm in need_cols) if (!nm %in% names(df)) df[[nm]] <- NA
+
+df <- df |>
+  mutate(
+    year     = suppressWarnings(as.integer(year)),
+    keywords = ifelse(is.na(keywords), "", as.character(keywords)),
+    title    = ifelse(is.na(title), "", as.character(title)),
+    journal  = ifelse(is.na(journal), "", as.character(journal)),
+    volume   = ifelse(is.na(volume), "", as.character(volume)),
+    number   = ifelse(is.na(number), "", as.character(number)),
+    pages    = ifelse(is.na(pages), "", as.character(pages)),
+    doi      = ifelse(is.na(doi), "", as.character(doi)),
+    url      = ifelse(is.na(url), "", as.character(url)),
+    author   = ifelse(is.na(author), "", as.character(author))
+  )
+
+# --- helpers ---------------------------------------------------------------
+
+get_kw <- function(x) {
+  if (is.null(x) || !nzchar(x)) return(character(0))
+  str_split(tolower(x), ",")[[1]] |> trimws()
+}
+
+bucket <- function(kws) {
+  if ("method" %in% kws) return("method")
+  if ("application_advanced" %in% kws) return("application_advanced")
+  if ("application" %in% kws) return("application")
+  "Other"
+}
+
+# Convertit "First Middle" ou "Pierre-Emmanuel" -> "P.-E."
+initials <- function(first) {
+  first <- stringr::str_squish(first)
+  if (!nzchar(first)) return("")
+
+  # Découpe en mots puis sous-mots (tirets)
+  words <- stringr::str_split(first, "\\s+")[[1]]
+  words <- words[words != ""]
+
+  ini_words <- purrr::map_chr(words, function(w) {
+    parts <- stringr::str_split(w, "-")[[1]]
+    parts <- parts[parts != ""]
+    # Initiales des segments du prénom composé : P.-E.
+    inis <- paste0(toupper(substr(parts, 1, 1)), ".")
+    paste(inis, collapse = "-")
+  })
+
+  paste(ini_words, collapse = " ")
+}
+
+# Parse "Last, First and Last, First" (format BibTeX) ou "A and B"
+parse_authors <- function(author_str) {
+  s <- str_replace_all(author_str, "\\s+", " ") |> str_trim()
+  if (!nzchar(s)) return(list())
+  parts <- str_split(s, "\\s+and\\s+")[[1]] |> str_trim()
+  parts <- parts[parts != ""]
+  parts
+}
+
+# Formate les auteurs : "Nom, I." ; met ton nom en gras ; limite à max_auth
+fmt_authors <- function(author_str, max_auth = 6, my_last = "Sugier", my_first = "Pierre-Emmanuel") {
+  authors <- parse_authors(author_str)
+
+  # tronque
+  truncated <- FALSE
+  if (length(authors) > max_auth) {
+    authors <- authors[1:max_auth]
+    truncated <- TRUE
+  }
+
+  formatted <- map(authors, function(a) {
+    # Essaye "Last, First"
+    if (str_detect(a, ",")) {
+      last <- str_trim(str_split(a, ",")[[1]][1])
+      first <- str_trim(paste(str_split(a, ",")[[1]][-1], collapse=" "))
+    } else {
+      # Sinon "First Last" (fallback)
+      tokens <- str_split(a, "\\s+")[[1]]
+      last <- tokens[length(tokens)]
+      first <- paste(tokens[-length(tokens)], collapse=" ")
+    }
+
+    ini <- initials(first)
+    txt <- paste0(last, ", ", ini)
+
+    # met ton nom en gras (match sur le nom de famille, et optionnellement initiale P.)
+    is_me <- identical(tolower(last), tolower(my_last)) &&
+      (str_detect(tolower(first), "pierre") || str_detect(ini, "^P\\.") || str_detect(ini, "P\\.-E\\."))
+
+    if (is_me) tags$strong(txt) else HTML(txt)
+  })
+
+  # ajoute et al.
+  if (truncated) {
+    formatted <- c(formatted, list(tags$em("et al.")))
+  }
+
+  # jointure avec virgules
+  out <- list()
+  for (i in seq_along(formatted)) {
+    out <- c(out, list(formatted[[i]]))
+    if (i < length(formatted)) out <- c(out, list(HTML(", ")))
+  }
+  out
+}
+
+fmt_vip <- function(volume, number, pages) {
+  vi <- ""
+  if (nzchar(volume)) vi <- volume
+  if (nzchar(number)) vi <- paste0(vi, "(", number, ")")
+  if (nzchar(vi) && nzchar(pages)) return(paste0(vi, ": ", pages))
+  if (nzchar(vi)) return(vi)
+  if (nzchar(pages)) return(pages)
+  ""
+}
+
+best_link <- function(doi, url) {
+  if (nzchar(doi)) return(paste0("https://doi.org/", doi))
+  if (nzchar(url)) return(url)
+  ""
+}
+
+ref_item <- function(r) {
+  link <- best_link(r$doi, r$url)
+  vip  <- fmt_vip(r$volume, r$number, r$pages)
+
+  title_node <- if (nzchar(link)) {
+    tags$a(r$title, href = link, target = "_blank", rel="noopener")
+  } else tags$span(r$title)
+
+  tags$li(class="pub-ref",
+    tags$span(class="pub-authors", fmt_authors(r$author, max_auth = 6)),
+    tags$span(class="pub-year", if (!is.na(r$year)) paste0(" (", r$year, "). ") else ". "),
+    tags$span(class="pub-title", title_node),
+    if (nzchar(r$journal)) tags$span(". ", tags$em(r$journal)) else NULL,
+    if (nzchar(vip)) tags$span(", ", vip) else NULL,
+    tags$span(".")
+  )
+}
+
+render_section <- function(section_label, section_key) {
+  sub <- df |>
+    mutate(kw = map(keywords, get_kw),
+           section = map_chr(kw, bucket)) |>
+    filter(section == section_key) |>
+    arrange(desc(year), title)
+
+  if (nrow(sub) == 0) return(NULL)
+
+  yrs <- sort(unique(sub$year[!is.na(sub$year)]), decreasing = TRUE)
+
+  out <- list(
+  tags$h2(section_label, class="pub-section"),
+  tags$ol(class="pub-list", !!!map(seq_len(nrow(sub)), ~ ref_item(sub[.x, ])))
+  )
+#  out <- list(tags$h2(section_label, class="pub-section"))
+#  for (yr in yrs) {
+#    ydf <- sub |> filter(year == yr)
+#    out <- c(out, list(
+#      tags$h3(as.character(yr), class="pub-year-header"),
+#      tags$ol(class="pub-list", !!!map(seq_len(nrow(ydf)), ~ ref_item(ydf[.x, ])))
+#    ))
+#  }
+  out
+}
+
+tagList(
+  tags$div(class="pub-wrap",
+    render_section("Methodological research in biostatistics and software implementation","method"),
+    render_section("Applications of advanced statistical methods", "application_advanced"),
+    render_section("Other applications", "application")
+  )
+)
+```

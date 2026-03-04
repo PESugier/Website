@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Website",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Methodological research in biostatistics and software implementation\n\n\n\nSugier, P.-E.\n, \nAsgari, Y.\n, \nSedki, M.\n, \nTruong, T.\n, \nLiquet, B.\n\n (2025). \n\nMeta-analysis models with group structure for pleiotropy detection at gene and variant level using summary statistics from multiple datasets\n\n\n. \nBiostatistics\n\n\n, \n26(1): kxaf037\n\n.\n\n\n\nAsgari, Y.\n, \nSugier, P.-E.\n, \nBaghfalaki, T.\n, \nLucotte, E.\n, \nKarimi, M.\n, \nSedki, M.\n, \net al.\n\n (2023). \n\nGCPBayes pipeline: a tool for exploring pleiotropy at the gene level\n\n\n. \nNAR Genomics and Bioinformatics\n\n\n, \n5(3): lqad065\n\n.\n\n\n\nBaghfalaki, T.\n, \nSugier, P.-E.\n, \nAsgari, Y.\n, \nTruong, T.\n, \nLiquet, B.\n\n (2023). \n\nGCPBayes: An R package for studying Cross-Phenotype Genetic Associations with Group-level Bayesian Meta-Analysis\n\n\n. \nThe R Journal\n\n\n, \n15(1): 122--141\n\n.\n\n\n\nSutton, M.\n, \nSugier, P.-E.\n, \nTruong, T.\n, \nLiquet, B.\n\n (2022). \n\nLeveraging pleiotropic association using sparse group variable selection in genomics data\n\n\n. \nBMC medical research methodology\n\n\n, \n22(1): 9\n\n.\n\n\n\nBaghfalaki, T.\n, \nSugier, P.-E.\n, \nTruong, T.\n, \nPettitt, A. N.\n, \nMengersen, K.\n, \nLiquet, B.\n\n (2021). \n\nBayesian meta-analysis models for cross cancer genomic investigation of pleiotropic effects using group structure\n\n\n. \nStatistics in medicine\n\n\n, \n40(6): 1498--1518\n\n.\n\n\nApplications of advanced statistical methods\n\n\n\nTruong, T.\n, \nPark, S. H.\n, \nAsgari, Y.\n, \nSugier, P.-E.\n, \nKarimi, M.\n, \nThomsen, H.\n, \net al.\n\n (2025). \n\nLarge-scale association analysis identified novel differentiated thyroid carcinoma risk loci by integrating transcriptome and proteome\n\n\n. \nHAL\n\n.\n\n\n\nDomenighetti, C.\n, \nSugier, P.-E.\n, \nSreelatha}, A. {. K.\n, \nSchulte, C.\n, \nGrover, S.\n, \nPortugal, B.\n, \net al.\n\n (2024). \n\nAssociation of body mass index and Parkinson disease: a bidirectional mendelian randomization study\n\n\n. \nNeurology\n\n\n, \n103(3): e209620\n\n.\n\n\n\nLucotte, E. A.\n, \nAsgari, Y.\n, \nSugier, P.-E.\n, \nKarimi, M.\n, \nDomenighetti, C.\n, \nLesueur, F.\n, \net al.\n\n (2024). \n\nInvestigation of common genetic risk factors between thyroid traits and breast cancer\n\n\n. \nHuman molecular genetics\n\n\n, \n33(1): 38--47\n\n.\n\n\n\nSugier, P.-E.\n, \nLucotte, E. A.\n, \nDomenighetti, C.\n, \nLaw, M. H.\n, \nIles, M. M.\n, \nBrown, K.\n, \net al.\n\n (2023). \n\nInvestigation of shared genetic risk factors between Parkinson's disease and cancers\n\n\n. \nMovement disorders\n\n\n, \n38(4): 604--615\n\n.\n\n\n\nGuibon, J.\n, \nSugier, P.-E.\n, \nKulkarni, O.\n, \nKarimi, M.\n, \nBacq-Daian, D.\n, \nBesse, C.\n, \net al.\n\n (2021). \n\nFine--mapping of two differentiated thyroid carcinoma susceptibility loci at 2q35 and 8p12 in Europeans, Melanesians and Polynesians\n\n\n. \nOncotarget\n\n\n, \n12(5): 493--506\n\n.\n\n\n\nKulkarni, O.\n, \nSugier, P.-E.\n, \nGuibon, J.\n, \nBoland-Augé, A.\n, \nLonjou, C.\n, \nBacq-Daian, D.\n, \net al.\n\n (2021). \n\nGene network and biological pathways associated with susceptibility to differentiated thyroid carcinoma\n\n\n. \nScientific Reports\n\n\n, \n11(1): 8932\n\n.\n\n\n\nSugier, P.-E.\n, \nSarnowski, C.\n, \nGranell, R.\n, \nLaprise, C.\n, \nEge, M. J.\n, \nMargaritte-Jeannin, P.\n, \net al.\n\n (2019). \n\nGenome-wide interaction study of early-life smoking exposure on time-to-asthma onset in childhood\n\n\n. \nClinical \\& Experimental Allergy\n\n\n, \n49(10): 1342--1351\n\n.\n\n\n\nSugier, P.-E.\n, \nBrossard, M.\n, \nSarnowski, C.\n, \nVaysse, A.\n, \nMorin, A.\n, \nPain, L.\n, \net al.\n\n (2018). \n\nA novel role for ciliary function in atopy: ADGRV1 and DNAH5 interactions\n\n\n. \nJournal of Allergy and Clinical Immunology\n\n\n, \n141(5): 1659--1667\n\n.\n\n\n\nSarnowski, C.\n, \nSugier, P.-E.\n, \nGranell, R.\n, \nJarvis, D.\n, \nDizier, M.-H.\n, \nEge, M.\n, \net al.\n\n (2016). \n\nIdentification of a new locus at 16q12 associated with time to asthma onset\n\n\n. \nJournal of Allergy and Clinical Immunology\n\n\n, \n138(4): 1071--1080\n\n.\n\n\nOther applications\n\n\n\nLandoulsi, Z.\n, \nSreelatha, A. A. K.\n, \nKuznetsov, N.\n, \nSchulte, C.\n, \nBobbili, D. R.\n, \nMontanucci, L.\n, \net al.\n\n (2025). \n\nGenome-wide association study of copy number variations in Parkinson’s disease\n\n\n. \nmedRxiv\n\n\n, \n2024--08\n\n.\n\n\n\nMandle, H. B.\n, \nJenab, M.\n, \nGunter, M. J.\n, \nTjønneland, A.\n, \nOlsen, A.\n, \nDahm, C. C.\n, \net al.\n\n (2025). \n\nInflammation and gut barrier function-related genes and colorectal cancer risk in western European populations\n\n\n. \nMutagenesis\n\n\n, \n40(1): 48--60\n\n.\n\n\n\nPark, S. H.\n, \nSugier, P.-E.\n, \nAsgari, Y.\n, \nKarimi, M.\n, \nKaaks, R.\n, \nFortner, R. T.\n, \net al.\n\n (2025). \n\nReproductive factors, sex hormone levels, and differentiated thyroid cancer risk: a Mendelian randomization study\n\n\n. \nThyroid\n\n\n, \n35(4): 433--443\n\n.\n\n\n\nDomenighetti, C.\n, \nSugier, P.-E.\n, \nSreelatha}, A. {. K.\n, \nSchulte, C.\n, \nGrover, S.\n, \nMohamed, O.\n, \net al.\n\n (2022). \n\nDairy intake and Parkinson's disease: a Mendelian randomization study\n\n\n. \nMovement Disorders\n\n\n, \n37(4): 857--864\n\n.\n\n\n\nGrover, S.\n, \nSreelatha}, A. A. {.\n, \nPihlstrom, L.\n, \nDomenighetti, C.\n, \nSchulte, C.\n, \nSugier, P.-E.\n, \net al.\n\n (2022). \n\nGenome-wide association and meta-analysis of age at onset in Parkinson disease: evidence from the COURAGE-PD consortium\n\n\n. \nNeurology\n\n\n, \n99(7): e698--e710\n\n.\n\n\n\nDomenighetti, C.\n, \nSugier, P.-E.\n, \nSreelatha, A. A. K.\n, \nSchulte, C.\n, \nGrover, S.\n, \nMohamed, O.\n, \net al.\n\n (2022). \n\nMendelian randomisation study of smoking, alcohol, and coffee drinking in relation to Parkinson’s disease\n\n\n. \nJournal of Parkinson’s disease\n\n\n, \n12(1): 267--282\n\n.\n\n\n\nLiu, H.\n, \nDehestani, M.\n, \nBlauwendraat, C.\n, \nMakarious, M. B.\n, \nLeonard, H.\n, \nKim, J. J.\n, \net al.\n\n (2022). \n\nPolygenic resilience modulates the penetrance of Parkinson disease genetic risk factors\n\n\n. \nAnnals of neurology\n\n\n, \n92(2): 270--278\n\n.\n\n\n\nDomenighetti, C.\n, \nDouillard, V.\n, \nSugier, P.-E.\n, \nSreelatha, A. A. K.\n, \nSchulte, C.\n, \nGrover, S.\n, \net al.\n\n (2022). \n\nThe interaction between HLA-DRB1 and smoking in Parkinson's disease revisited\n\n\n. \nMovement Disorders\n\n\n, \n37(9): 1929--1937\n\n.\n\n\n\nDomenighetti, C.\n, \nDouillard, V.\n, \nSugier, P.-E.\n, \nVince, N.\n, \nElbaz, A.\n, \n{others}, \n\n (2022). \n\nUne valine 11 codée par le gène HLA-DRB1 est associée inversement au risque de maladie de Parkinson et interagit avec l’initiation du tabagisme\n\n\n. \nRevue neurologique\n\n\n, \n178: S15\n\n.\n\n\n\nTruong, T.\n, \nLesueur, F.\n, \nSugier, P.-E.\n, \nGuibon, J.\n, \nXhaard, C.\n, \nKarimi, M.\n, \net al.\n\n (2021). \n\nMultiethnic genome-wide association study of differentiated thyroid cancer in the EPITHYR consortium\n\n\n. \nInternational journal of cancer\n\n\n, \n148(12): 2935--2946\n\n.\n\n\n\nGrover, S.\n, \nKumar-Sreelatha, A. A.\n, \nBobbili, D. R.\n, \nMay, P.\n, \nDomenighetti, C.\n, \nSugier, P.-E.\n, \net al.\n\n (2021). \n\nReplication of a novel Parkinson's locus in a European ancestry population\n\n\n. \nMovement Disorders\n\n\n, \n36(7): 1689--1695\n\n.\n\n\n\nMencke, P.\n, \nHanss, Z.\n, \nBoussaad, I.\n, \nSugier, P.-E.\n, \nElbaz, A.\n, \nKrüger, R.\n\n (2020). \n\nBidirectional relation between Parkinson's disease and glioblastoma multiforme\n\n\n. \nFrontiers in neurology\n\n\n, \n11: 898\n\n.\n\n\n\nServy, A.\n, \nMaubec, E.\n, \nSugier, P.\n, \nGrange, F.\n, \nMansard, S.\n, \nLesimple, T.\n, \net al.\n\n (2016). \n\nMerkel cell carcinoma: value of sentinel lymph-node status and adjuvant radiation therapy\n\n\n. \nAnnals of Oncology\n\n\n, \n27(5): 914--919\n\n."
+  },
+  {
+    "objectID": "enseignement.html#course-materials-repository",
+    "href": "enseignement.html#course-materials-repository",
+    "title": "Teaching activities",
+    "section": "Course materials repository",
+    "text": "Course materials repository\nWork in progress… At the moment, all my current materials can be found on moodle."
+  },
+  {
+    "objectID": "enseignement.html#teaching-activities-at-université-paris-cité",
+    "href": "enseignement.html#teaching-activities-at-université-paris-cité",
+    "title": "Teaching activities",
+    "section": "Teaching activities at Université Paris Cité",
+    "text": "Teaching activities at Université Paris Cité\n\nMachine Learning I – Data Analysis\nM1 – Master Ingénierie, Mathématique et Biostatistique (Université Paris Cité)\n2024–2026 · Lectures, tutorials and practical sessions\nIntroduction to machine learning methods for high-dimensional data analysis.\nTopics include supervised and unsupervised learning methods, model evaluation, and implementation using statistical software.\n\n\nStatistics for Genetics and Genomics\nM1 – Master Ingénierie, Mathématique et Biostatistique (Université Paris Cité)\n2024–2026 · Lectures, tutorials and practical sessions\nCourse introducing statistical methods for the analysis of genetic and genomic data, including association studies, population structure and statistical modelling of genomic data.\n\n\nEM Algorithm: a case study\nM1 – Master Ingénierie, Mathématique et Biostatistique (Université Paris Cité)\n2022–2026 · Lectures, tutorials and practical sessions\nApplied course on the Expectation–Maximization algorithm, focusing on mixture models, latent variable models and practical implementation in statistical software.\n\n\nMathematics and Calculus I\nL1 – Licence Mathématiques et Applications (Université Paris Cité)\n2024–2026 · Tutorials\nTutorial sessions covering fundamental concepts in calculus and mathematical analysis for first-year undergraduate students.\n\n\nMathematics Refresher Course\nL1 – Licence Mathématiques et Applications (Université Paris Cité)\n2024–2026 · Tutorials\nSupport course aimed at strengthening mathematical foundations for undergraduate students entering the mathematics programme."
+  },
+  {
+    "objectID": "enseignement.html#previous-teaching-20132024",
+    "href": "enseignement.html#previous-teaching-20132024",
+    "title": "Teaching activities",
+    "section": "Previous teaching (2013–2024)",
+    "text": "Previous teaching (2013–2024)\n\nStatistical Genetics\nM2 – Masters MSR and SDS (Université Paris-Saclay)\n2020–2024 · Lectures\n\n\nStatistics for Immunology\nM2 – Master Biologie Santé (Université Paris-Saclay)\n2023–2024 · Lectures\n\n\nMultivariate Data Analysis\nM1 – Masters MIBD and MSID (Université de Pau et des Pays de l’Adour)\n2021–2023 · Lectures and practical sessions\n\n\nIntroduction to Machine Learning\nM1 – Masters MIBD and MSID (Université de Pau et des Pays de l’Adour)\n2020–2022 · Lectures and practical sessions\n\n\nStatistics and Classification (e-learning)\nM2 – Master Research and Innovation in Healthcare (RIS), Université Paris 13\n2019 · Online teaching\n\n\nProbability and Statistics\nL1–L2 – Life Sciences programmes, Université Paris Diderot\n2013–2016 · Tutorials\n\n\nStatistics with R\nL3 – Life Sciences programmes, Université Paris Diderot\n2013–2016 · Tutorials and practical sessions\n\n\nPython Programming\nL2 / M1 – Life Sciences programmes, Université Paris Diderot\n2013–2016 · Lectures and practical sessions"
   },
   {
     "objectID": "about.html",
@@ -12,5 +33,61 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "curriculum.html",
+    "href": "curriculum.html",
+    "title": "P-E Sugier",
+    "section": "",
+    "text": "Since September 2024, I have been an Associate Professor at Université Paris Cité."
+  },
+  {
+    "objectID": "curriculum.html#research-interests",
+    "href": "curriculum.html#research-interests",
+    "title": "P-E Sugier",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research is structured around two complementary directions: the development of statistical methods motivated by genetic and omics data analysis to investigate risk factors for complex diseases, and the application of advanced statistical methods to large-scale epidemiological data.\n\n\nMachine-Learning\n- High-dimension\n- Meta-analysis models\n- Bayesian models\n- Variable selection\n\nQuantitative Genomics\n- Statistical genetics\n- Epidemiology of complex diseases\n- Multi-omics data integration"
+  },
+  {
+    "objectID": "curriculum.html#background",
+    "href": "curriculum.html#background",
+    "title": "P-E Sugier",
+    "section": "Background",
+    "text": "Background\n\n\n\n\n\n\n\n\nYear\nPosition\nInstitution\n\n\n\n\nSince 2024\nAssociate Professor\nStatistics Team, MAP5 Laboratory, Université Paris Cité, CNRS\n\n\nSince 2025\nResearch associate\nExposome & Heredity Team, Center for Epidemiology and Population Health (CESP), Inserm UMR 1018, Université Paris-Saclay, UVSQ\n\n\n2020–2024\nPostdoctoral Researcher\nLaboratory of Mathematics and Their Applications of Pau (LMAP), Université de Pau et des Pays de l’Adour\n\n\n2023\nInvited Research Fellow\nDepartment of Mathematics and Statistics, Macquarie University, Sydney, Australia\n\n\n2020\nInvited Research Fellow\nARC Centre of Excellence for Mathematical and Statistical Frontiers (ACEMS), Queensland University of Technology, Brisbane, Australia\n\n\n2019\nPostdoctoral Researcher\nNeuroepidemiology Team, CESP, Inserm UMR 1018, Université Paris-Saclay, UVSQ\n\n\n2018\nBiostatistician\nCancer Epidemiology, Genes & Environment Team, CESP, Inserm UMR 1018, Université Paris-Saclay, UVSQ\n\n\n2013–2018\nPhD student\nGenetic Variability and Human Diseases Team, Inserm U946\n\n\n2012–2013\nBiostatistician\nGenetic Variability and Human Diseases Team, Inserm U946"
+  },
+  {
+    "objectID": "curriculum.html#education",
+    "href": "curriculum.html#education",
+    "title": "P-E Sugier",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nYear\nDegree\nInstitution\n\n\n\n\n2018\nPhD in Public Health (Epidemiology and Biomedical Information Science)\nSorbonne University\n\n\n2012\nISUP Diploma in Statistics (Biostatistics)\nInstitute of Statistics, Sorbonne University\n\n\n2012\nMSc in Mathematics and Applications (Statistics)\nSorbonne University\n\n\n2012\nInter-University Diploma in Statistics for Public Health, Medicine and Biology (CESAM)\nSorbonne University"
+  },
+  {
+    "objectID": "curriculum.html#supervision-and-mentoring",
+    "href": "curriculum.html#supervision-and-mentoring",
+    "title": "P-E Sugier",
+    "section": "Supervision and mentoring",
+    "text": "Supervision and mentoring\n\nPhD supervision\n\nChristina Feng (since 2023), PhD student at the Department of Mathematics and Statistics, Macquarie University (Sydney, Australia). Joint supervision together with Benoit Liquet.\nThesis topic: Advancing multivariate methods for detecting pleiotropy using GWAS summary statistics.\n\n\n\nMaster’s supervision\n\nEva Jaber (2024), MSc internship in Health Data Science, Université Paris-Saclay.\nProject: Methods for pleiotropy analysis with applications to Parkinson’s disease and cancers.\nDonna-Lee Bowie (2022), MSc internship in Bioinformatics, Université de Bordeaux. Joint supervision with Yazdan Asgari. Project: Network enrichment analysis of pleiotropic genes for breast cancer and thyroid disorders.\nAmélie Ngo (2021), MSc internship in Public Health Methods, Université Paris-Saclay.\nProject: Analysis of shared genetic risk factors between Parkinson’s disease and cancers."
+  },
+  {
+    "objectID": "curriculum.html#service-and-responsabilities",
+    "href": "curriculum.html#service-and-responsabilities",
+    "title": "P-E Sugier",
+    "section": "Service and responsabilities",
+    "text": "Service and responsabilities\n\nSince 2025 — Elected member of the Council of the Faculty of Mathematics and Computer Science, Université Paris Cité."
+  },
+  {
+    "objectID": "curriculum.html#scientific-outreach",
+    "href": "curriculum.html#scientific-outreach",
+    "title": "P-E Sugier",
+    "section": "Scientific Outreach",
+    "text": "Scientific Outreach\n\nJuly 2023 — Invited by the International Parkinson and Movement Disorder Society (MDS) for a scientific interview in the official MDS podcast (Episode 120) discussing my research on pleiotropy between Parkinson’s disease and cancers.\n“Pleiotropy in Parkinson’s disease and Cancer: Is there an association between these entities?”"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pierre-Emmanuel Sugier",
+    "section": "",
+    "text": "Since September 2024, I have been an Associate Professor at Université Paris Cité. I conduct my teaching within the Faculty of Mathematics and Computer Science and carry out my research at the MAP5 Laboratory (CNRS UMR 8145). I am also an associated researcher with the Exposome and Heredity team at the Center for Epidemiology and Population Health (CESP), Inserm.\nDepuis septembre 2024, je suis maître de conférences à l’Université Paris Cité. J’effectue mes recherches au sein de l’UFR de Mathématiques et Informatique, et mes recherches au sein du laboratoire MAP5 (CNRS UMR 8145). Je suis également chercheur associé dans l’équipe Exposome et Hérédité du Centre de recherche en Epidémiologie et Santé des Populations (CESP) de l’Inserm."
   }
 ]
