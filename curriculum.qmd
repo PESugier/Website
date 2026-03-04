@@ -1,0 +1,96 @@
+---
+format:
+  html:
+    css: curriculum.css
+---
+
+Since September 2024, I have been an Associate Professor at Université Paris Cité.
+
+---
+
+## Research Interests
+
+My research is structured around two complementary directions: the development of statistical methods motivated by genetic and omics data analysis to investigate risk factors for complex diseases, and the application of advanced statistical methods to large-scale epidemiological data.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**Machine-Learning**  
+- High-dimension  
+- Meta-analysis models  
+- Bayesian models  
+- Variable selection  
+
+:::
+
+::: {.column width="50%"}
+**Quantitative Genomics**  
+- Statistical genetics  
+- Epidemiology of complex diseases  
+- Multi-omics data integration  
+:::
+
+::::
+
+---
+
+## Background
+
+| Year | Position | Institution |
+|-----|-----|-----|
+| **Since 2024** | **Associate Professor** | Statistics Team, MAP5 Laboratory, Université Paris Cité, CNRS |
+| **Since 2025** | **Research associate** | Exposome & Heredity Team, Center for Epidemiology and Population Health (CESP), Inserm UMR 1018, Université Paris-Saclay, UVSQ |
+| **2020–2024** | **Postdoctoral Researcher** | Laboratory of Mathematics and Their Applications of Pau (LMAP), Université de Pau et des Pays de l’Adour |
+| **2023** | **Invited Research Fellow** | Department of Mathematics and Statistics, Macquarie University, Sydney, Australia |
+| **2020** | **Invited Research Fellow** | ARC Centre of Excellence for Mathematical and Statistical Frontiers (ACEMS), Queensland University of Technology, Brisbane, Australia |
+| **2019** | **Postdoctoral Researcher** | Neuroepidemiology Team, CESP, Inserm UMR 1018, Université Paris-Saclay, UVSQ |
+| **2018** | **Biostatistician** | Cancer Epidemiology, Genes & Environment Team, CESP, Inserm UMR 1018, Université Paris-Saclay, UVSQ |
+| **2013–2018** | **PhD student** | Genetic Variability and Human Diseases Team, Inserm U946 |
+| **2012–2013** | **Biostatistician** | Genetic Variability and Human Diseases Team, Inserm U946 |
+
+---
+
+## Education
+
+| Year | Degree | Institution |
+|-----|-----|-----|
+| **2018** | PhD in Public Health (Epidemiology and Biomedical Information Science) | Sorbonne University |
+| **2012** | ISUP Diploma in Statistics (Biostatistics) | Institute of Statistics, Sorbonne University |
+| **2012** | MSc in Mathematics and Applications (Statistics) | Sorbonne University |
+| **2012** | Inter-University Diploma in Statistics for Public Health, Medicine and Biology (CESAM) | Sorbonne University |
+
+---
+
+## Supervision and mentoring
+
+### PhD supervision
+
+- **Christina Feng** (since 2023), PhD student at the Department of Mathematics and Statistics, Macquarie University (Sydney, Australia). Joint supervision together with Benoit Liquet.  
+  *Thesis topic:* Advancing multivariate methods for detecting pleiotropy using GWAS summary statistics.
+
+### Master's supervision
+
+- **Eva Jaber** (2024), MSc internship in Health Data Science, Université Paris-Saclay.  
+  *Project:* Methods for pleiotropy analysis with applications to Parkinson’s disease and cancers.
+
+- **Donna-Lee Bowie** (2022), MSc internship in Bioinformatics, Université de Bordeaux. Joint supervision with Yazdan Asgari.
+  *Project:* Network enrichment analysis of pleiotropic genes for breast cancer and thyroid disorders. 
+
+- **Amélie Ngo** (2021), MSc internship in Public Health Methods, Université Paris-Saclay.  
+  *Project:* Analysis of shared genetic risk factors between Parkinson’s disease and cancers.
+  
+---
+
+## Service and responsabilities
+
+- **Since 2025** — Elected member of the Council of the Faculty of Mathematics and Computer Science, Université Paris Cité.
+
+---
+
+## Scientific Outreach
+
+- **July 2023** — Invited by the *International Parkinson and Movement Disorder Society (MDS)* for a scientific interview in the official MDS podcast (Episode 120) discussing my research on pleiotropy between Parkinson’s disease and cancers.  
+  [“Pleiotropy in Parkinson’s disease and Cancer: Is there an association between these entities?”](https://www.movementdisorders.org/Podcasts/Pleiotropy-in-Parkinsons-disease-and-Cancer-Is-there-an-association-between-these-entities.htm)
+  
+  
+

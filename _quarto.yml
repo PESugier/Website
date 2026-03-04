@@ -3,20 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "Website"
+  title: "P-E Sugier"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: curriculum.qmd
+        text: About
+      #- href: recherche.qmd
+      #  text: Research
+      - href: publications.qmd
+        text: Publications    
+      - href: enseignement.qmd
+        text: Teaching
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: [solar, theme-light2.scss]
+      dark: solar #[solar, theme-dark.scss]
+      
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

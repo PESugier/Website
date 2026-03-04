@@ -1,0 +1,81 @@
+---
+title: "Teaching activities"
+---
+
+---
+
+## Course materials repository
+
+Work in progress... At the moment, all my current materials can be found on moodle.
+
+---
+
+## Teaching activities at Université Paris Cité
+
+### Machine Learning I – Data Analysis  
+**M1 – Master Ingénierie, Mathématique et Biostatistique (Université Paris Cité)**  
+2024–2026 · Lectures, tutorials and practical sessions
+
+Introduction to machine learning methods for high-dimensional data analysis.  
+Topics include supervised and unsupervised learning methods, model evaluation, and implementation using statistical software.
+
+### Statistics for Genetics and Genomics  
+**M1 – Master Ingénierie, Mathématique et Biostatistique (Université Paris Cité)**  
+2024–2026 · Lectures, tutorials and practical sessions
+
+Course introducing statistical methods for the analysis of genetic and genomic data, including association studies, population structure and statistical modelling of genomic data.
+
+### EM Algorithm: a case study
+**M1 – Master Ingénierie, Mathématique et Biostatistique (Université Paris Cité)**  
+2022–2026 · Lectures, tutorials and practical sessions
+
+Applied course on the Expectation–Maximization algorithm, focusing on mixture models, latent variable models and practical implementation in statistical software.
+
+### Mathematics and Calculus I  
+**L1 – Licence Mathématiques et Applications (Université Paris Cité)**  
+2024–2026 · Tutorials
+
+Tutorial sessions covering fundamental concepts in calculus and mathematical analysis for first-year undergraduate students.
+
+### Mathematics Refresher Course  
+**L1 – Licence Mathématiques et Applications (Université Paris Cité)**  
+2024–2026 · Tutorials
+
+Support course aimed at strengthening mathematical foundations for undergraduate students entering the mathematics programme.
+
+---
+
+## Previous teaching (2013–2024)
+
+### Statistical Genetics  
+**M2 – Masters MSR and SDS (Université Paris-Saclay)**  
+2020–2024 · Lectures
+
+### Statistics for Immunology  
+**M2 – Master Biologie Santé (Université Paris-Saclay)**  
+2023–2024 · Lectures
+
+### Multivariate Data Analysis  
+**M1 – Masters MIBD and MSID (Université de Pau et des Pays de l’Adour)**  
+2021–2023 · Lectures and practical sessions
+
+### Introduction to Machine Learning  
+**M1 – Masters MIBD and MSID (Université de Pau et des Pays de l’Adour)**  
+2020–2022 · Lectures and practical sessions
+
+### Statistics and Classification (e-learning)  
+**M2 – Master Research and Innovation in Healthcare (RIS), Université Paris 13**  
+2019 · Online teaching
+
+### Probability and Statistics  
+**L1–L2 – Life Sciences programmes, Université Paris Diderot**  
+2013–2016 · Tutorials
+
+### Statistics with R  
+**L3 – Life Sciences programmes, Université Paris Diderot**  
+2013–2016 · Tutorials and practical sessions
+
+### Python Programming  
+**L2 / M1 – Life Sciences programmes, Université Paris Diderot**  
+2013–2016 · Lectures and practical sessions
+

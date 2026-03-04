@@ -1,0 +1,338 @@
+% articles authored by P.E Sugier
+
+@article{sugier2025meta,
+  title={Meta-analysis models with group structure for pleiotropy detection at gene and variant level using summary statistics from multiple datasets},
+  author={Sugier, Pierre-Emmanuel and Asgari, Yazdan and Sedki, Mohammed and Truong, Th{\'e}r{\`e}se and Liquet, Benoit},
+  journal={Biostatistics},
+  volume={26},
+  number={1},
+  pages={kxaf037},
+  year={2025},
+  publisher={Oxford University Press},
+  doi={10.1093/biostatistics/kxaf037},
+  url={https://doi.org/10.1093/biostatistics/kxaf037},
+  keywords = {method}
+}
+
+@article{park2025reproductive,
+  title={Reproductive factors, sex hormone levels, and differentiated thyroid cancer risk: a Mendelian randomization study},
+  author={Park, See Hyun and Sugier, Pierre-Emmanuel and Asgari, Yazdan and Karimi, Mojgan and Kaaks, Rudolf and Fortner, Ren{\'e}e Turzanski and Schulze, Matthias and Agnoli, Claudia and Pasanisi, Fabrizio and Sacerdote, Carlotta and others},
+  journal={Thyroid},
+  volume={35},
+  number={4},
+  pages={433--443},
+  year={2025},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  keywords = {application}
+}
+
+%
+% tempo medRxiv
+%
+@article{landoulsi2025genome,
+  title={Genome-wide association study of copy number variations in Parkinson’s disease},
+  author={Landoulsi, Zied and Sreelatha, Ashwin Ashok Kumar and Kuznetsov, Nicole and Schulte, Claudia and Bobbili, Dheeraj Reddy and Montanucci, Ludovica and Leu, Costin and Niestroj, Lisa-Marie and Hassanin, Emadeldin and Domenighetti, Clo{\'e} and others},
+  journal={medRxiv},
+  pages={2024--08},
+  year={2025},
+  keywords = {application}
+}
+
+@article{mandle2025inflammation,
+  title={Inflammation and gut barrier function-related genes and colorectal cancer risk in western European populations},
+  author={Mandle, Hannah B and Jenab, Mazda and Gunter, Marc J and Tj{\o}nneland, Anne and Olsen, Anja and Dahm, Christina C and Zhang, Jie and Sugier, Pierre-Emmanuel and Rothwell, Joseph and Severi, Gianluca and others},
+  journal={Mutagenesis},
+  volume={40},
+  number={1},
+  pages={48--60},
+  year={2025},
+  publisher={Oxford University Press UK},
+  keywords = {application}
+}
+
+%
+% tempo HALL
+%
+@article{truong2025large,
+  title={Large-scale association analysis identified novel differentiated thyroid carcinoma risk loci by integrating transcriptome and proteome},
+  author={Truong, Therese and Park, See Hyun and Asgari, Yazdan and Sugier, Pierre-Emmanuel and Karimi, Mojgan and Thomsen, Hauke and F{\"o}rsti, Asta and Elisei, Rosella and Gemignani, Federica and Landi, Stefano and others},
+  journal={HAL},
+  year={2025},
+  keywords = {application}
+}
+
+@article{domenighetti2024association,
+  title={Association of body mass index and Parkinson disease: a bidirectional mendelian randomization study},
+  author={Domenighetti, Clo{\'e} and Sugier, Pierre-Emmanuel and Ashok Kumar Sreelatha, Ashwin and Schulte, Claudia and Grover, Sandeep and Portugal, Berta and Lee, Pei-Chen and May, Patrick and Bobbili, Dheeraj and Radivojkov Blagojevic, Milena and others},
+  journal={Neurology},
+  volume={103},
+  number={3},
+  pages={e209620},
+  year={2024},
+  publisher={Lippincott Williams \& Wilkins Hagerstown, MD},
+  keywords = {application}
+}
+
+@article{lucotte2024investigation,
+  title={Investigation of common genetic risk factors between thyroid traits and breast cancer},
+  author={Lucotte, Elise A and Asgari, Yazdan and Sugier, Pierre-Emmanuel and Karimi, Mojgan and Domenighetti, Clo{\'e} and Lesueur, Fabienne and Boland-Aug{\'e}, Anne and Ostroumova, Evgenia and de Vathaire, Florent and Zidane, Monia and others},
+  journal={Human molecular genetics},
+  volume={33},
+  number={1},
+  pages={38--47},
+  year={2024},
+  publisher={Oxford University Press},
+  keywords = {application}
+}
+
+@article{asgari2023gcpbayes,
+  title={GCPBayes pipeline: a tool for exploring pleiotropy at the gene level},
+  author={Asgari, Yazdan and Sugier, Pierre-Emmanuel and Baghfalaki, Taban and Lucotte, Elise and Karimi, Mojgan and Sedki, Mohammed and Ngo, Am{\'e}lie and Liquet, Benoit and Truong, Th{\'e}rese},
+  journal={NAR Genomics and Bioinformatics},
+  volume={5},
+  number={3},
+  pages={lqad065},
+  year={2023},
+  publisher={Oxford University Press},
+  keywords = {method}
+}
+
+@article{sugier2023investigation,
+  title={Investigation of shared genetic risk factors between Parkinson's disease and cancers},
+  author={Sugier, Pierre-Emmanuel and Lucotte, Elise A and Domenighetti, Clo{\'e} and Law, Matthew H and Iles, Mark M and Brown, Kevin and Amos, Christopher and McKay, James D and Hung, Rayjean J and Karimi, Mojgan and others},
+  journal={Movement disorders},
+  volume={38},
+  number={4},
+  pages={604--615},
+  year={2023},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA},
+  keywords = {application}
+}
+
+@article{baghfalaki2023gcpbayes,
+  title={GCPBayes: An R package for studying Cross-Phenotype Genetic Associations with Group-level Bayesian Meta-Analysis},
+  author={Baghfalaki, Taban and Sugier, Pierre-Emmanuel and Asgari, Yazdan and Truong, Th{\'e}r{\`e}se and Liquet, Benoit},
+  journal={The R Journal},
+  volume={15},
+  number={1},
+  pages={122--141},
+  year={2023},
+  keywords = {method}
+}
+
+@article{asgari2023using,
+  title={Using GCPBayes to explore pleiotropy at gene-level between breast and ovarian cancers based on GWAS summary statistics data},
+  author={Asgari, Yazdan and Sugier, Pierre-Emmanuel and Baghfalaki, Taban and Karimi, Mojgan and Lucotte, Elise and Ngo, Amelie and Severi, Gianluca and Liquet, Benoit and Truong, Therese},
+  journal={European Journal of Human Genetics},
+  volume={31},
+  number={S1},
+  pages={599--600},
+  year={2023},
+  publisher={Springer, Springer Nature},
+  keywords = {application}
+}
+
+@article{grover2022genome_neurology,
+  title={Genome-wide association and meta-analysis of age at onset in Parkinson disease: evidence from the COURAGE-PD consortium},
+  author={Grover, Sandeep and Kumar Sreelatha, Ashwin Ashok and Pihlstrom, Lasse and Domenighetti, Clo{\'e} and Schulte, Claudia and Sugier, Pierre-Emmanuel and Radivojkov-Blagojevic, Milena and Lichtner, Peter and Mohamed, Oc{\'e}ane and Portugal, Berta and others},
+  journal={Neurology},
+  volume={99},
+  number={7},
+  pages={e698--e710},
+  year={2022},
+  publisher={Lippincott Williams \& Wilkins},
+  keywords = {application}
+}
+
+@article{domenighetti2022interaction,
+  title={The interaction between HLA-DRB1 and smoking in Parkinson's disease revisited},
+  author={Domenighetti, Clo{\'e} and Douillard, Venceslas and Sugier, Pierre-Emmanuel and Sreelatha, Ashwin Ashok Kumar and Schulte, Claudia and Grover, Sandeep and May, Patrick and Bobbili, Dheeraj R and Radivojkov-Blagojevic, Milena and Lichtner, Peter and others},
+  journal={Movement Disorders},
+  volume={37},
+  number={9},
+  pages={1929--1937},
+  year={2022},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA},
+  keywords = {application}
+}
+
+@article{domenighetti2022dairy,
+  title={Dairy intake and Parkinson's disease: a Mendelian randomization study},
+  author={Domenighetti, Clo{\'e} and Sugier, Pierre-Emmanuel and Ashok Kumar Sreelatha, Ashwin and Schulte, Claudia and Grover, Sandeep and Mohamed, Oc{\'e}ane and Portugal, Berta and May, Patrick and Bobbili, Dheeraj R and Radivojkov-Blagojevic, Milena and others},
+  journal={Movement Disorders},
+  volume={37},
+  number={4},
+  pages={857--864},
+  year={2022},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA},
+  keywords = {application}
+}
+
+@article{domenighetti2022valine,
+  title={Une valine 11 cod{\'e}e par le g{\`e}ne HLA-DRB1 est associ{\'e}e inversement au risque de maladie de Parkinson et interagit avec l’initiation du tabagisme},
+  author={Domenighetti, Clo{\'e} and Douillard, Venceslas and Sugier, Pierre-Emmanuel and Vince, Nicolas and Elbaz, Alexis and others},
+  journal={revue neurologique},
+  volume={178},
+  pages={S15},
+  year={2022},
+  publisher={Elsevier Masson},
+  keywords = {national_application}
+}
+
+@article{sutton2022leveraging,
+  title={Leveraging pleiotropic association using sparse group variable selection in genomics data},
+  author={Sutton, Matthew and Sugier, Pierre-Emmanuel and Truong, Therese and Liquet, Benoit},
+  journal={BMC medical research methodology},
+  volume={22},
+  number={1},
+  pages={9},
+  year={2022},
+  publisher={BioMed Central London},
+  keywords = {method}
+}
+
+@article{domenighetti2022mendelian,
+  title={Mendelian randomisation study of smoking, alcohol, and coffee drinking in relation to Parkinson’s disease},
+  author={Domenighetti, Cloe and Sugier, Pierre-Emmanuel and Sreelatha, Ashwin Ashok Kumar and Schulte, Claudia and Grover, Sandeep and Mohamed, Oc{\'e}ane and Portugal, Berta and May, Patrick and Bobbili, Dheeraj R and Radivojkov-Blagojevic, Milena and others},
+  journal={Journal of Parkinson’s disease},
+  volume={12},
+  number={1},
+  pages={267--282},
+  year={2022},
+  publisher={SAGE Publications Sage UK: London, England},
+  keywords = {application}
+}
+
+@article{liu2022polygenic,
+  title={Polygenic resilience modulates the penetrance of Parkinson disease genetic risk factors},
+  author={Liu, Hui and Dehestani, Mohammad and Blauwendraat, Cornelis and Makarious, Mary B and Leonard, Hampton and Kim, Jonggeol J and Schulte, Claudia and Noyce, Alastair and Jacobs, Benjamin M and Foote, Isabelle and others},
+  journal={Annals of neurology},
+  volume={92},
+  number={2},
+  pages={270--278},
+  year={2022},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA},
+  keywords = {application}
+}
+
+@article{kulkarni2021gene,
+  title={Gene network and biological pathways associated with susceptibility to %differentiated thyroid carcinoma},
+  author={Kulkarni, Om and Sugier, Pierre-Emmanuel and Guibon, Julie and %Boland-Aug{\'e}, Anne and Lonjou, Christine and Bacq-Daian, Delphine and Olaso, %Robert and Rubino, Carole and Souchard, Vincent and Rachedi, Fr{\'e}d{\'e}rique and %others},
+  journal={Scientific Reports},
+  volume={11},
+  number={1},
+  pages={8932},
+  year={2021},
+  publisher={Nature Publishing Group UK London},
+  keywords = {application}
+}
+
+@article{grover2021replication,
+  title={Replication of a novel Parkinson's locus in a European ancestry population},
+  author={Grover, Sandeep and Kumar-Sreelatha, Ashwin Ashok and Bobbili, Dheeraj R and %May, Patrick and Domenighetti, Clo{\'e} and Sugier, Pierre-Emmanuel and Schulte, %Claudia and COURAGE-PD Consortium and Elbaz, Alexis and Kr{\"u}ger, Rejko and %others},
+  journal={Movement Disorders},
+  volume={36},
+  number={7},
+  pages={1689--1695},
+  year={2021},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA},
+  keywords = {application}
+}
+
+@article{guibon2021fine,
+  title={Fine--mapping of two differentiated thyroid carcinoma susceptibility loci at %2q35 and 8p12 in Europeans, Melanesians and Polynesians},
+  author={Guibon, Julie and Sugier, Pierre-Emmanuel and Kulkarni, Om and Karimi, %Mojgan and Bacq-Daian, Delphine and Besse, C{\'e}line and Boland, Anne and Adjadj, %Elisabeth and Rach{\'e}di, Fr{\'e}d{\'e}rique and Rubino, Carole and others},
+  journal={Oncotarget},
+  volume={12},
+  number={5},
+  pages={493},
+  year={2021},
+  keywords = {application}
+}
+
+@article{truong2021multiethnic,
+  title={Multiethnic genome-wide association study of differentiated thyroid cancer in %the EPITHYR consortium},
+  author={Truong, Th{\'e}r{\`e}se and Lesueur, Fabienne and Sugier, Pierre-Emmanuel %and Guibon, Julie and Xhaard, Constance and Karimi, Mojgan and Kulkarni, Om and %Lucotte, Elise A and Bacq-Daian, Delphine and Boland-Auge, Anne and others},
+  journal={International journal of cancer},
+  volume={148},
+  number={12},
+  pages={2935--2946},
+  year={2021},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA},
+  keywords = {application}
+}
+
+@article{baghfalaki2021bayesian,
+  title={Bayesian meta-analysis models for cross cancer genomic investigation of %pleiotropic effects using group structure},
+  author={Baghfalaki, Taban and Sugier, Pierre-Emmanuel and Truong, Therese and %Pettitt, Anthony N and Mengersen, Kerrie and Liquet, Benoit},
+  journal={Statistics in medicine},
+  volume={40},
+  number={6},
+  pages={1498--1518},
+  year={2021},
+  keywords = {method}
+}
+
+@article{mencke2020bidirectional,
+  title={Bidirectional relation between Parkinson's disease and glioblastoma %multiforme},
+  author={Mencke, Pauline and Hanss, Zo{\'e} and Boussaad, Ibrahim and Sugier, %Pierre-Emmanuel and Elbaz, Alexis and Kr{\"u}ger, Rejko},
+  journal={Frontiers in neurology},
+  volume={11},
+  pages={898},
+  year={2020},
+  publisher={Frontiers Media SA},
+  keywords = {application}
+}
+
+@article{sugier2019genome,
+  title={Genome-wide interaction study of early-life smoking exposure on %time-to-asthma onset in childhood},
+  author={Sugier, Pierre-Emmanuel and Sarnowski, Chlo{\'e} and Granell, Raquel and %Laprise, Catherine and Ege, Markus J and Margaritte-Jeannin, Patricia and Dizier, %Marie-H{\'e}l{\`e}ne and Minelli, Cosetta and Moffatt, Miriam F and Lathrop, Mark %and others},
+  journal={Clinical \& Experimental Allergy},
+  volume={49},
+  number={10},
+  pages={1342--1351},
+  year={2019},
+  publisher={Wiley Online Library},
+  keywords = {application}
+}
+
+@article{sugier2018novel,
+  title={A novel role for ciliary function in atopy: ADGRV1 and DNAH5 interactions},
+  author={Sugier, Pierre-Emmanuel and Brossard, Myriam and Sarnowski, Chlo{\'e} and %Vaysse, Amaury and Morin, Andr{\'e}anne and Pain, Lucile and Margaritte-Jeannin, %Patricia and Dizier, Marie-H{\'e}l{\`e}ne and Cookson, William OCM and Lathrop, Mark %and others},
+  journal={Journal of Allergy and Clinical Immunology},
+  volume={141},
+  number={5},
+  pages={1659--1667},
+  year={2018},
+  publisher={Elsevier},
+  keywords = {application}
+}
+
+@article{sarnowski2016identification,
+  title={Identification of a new locus at 16q12 associated with time to asthma onset},
+  author={Sarnowski, Chlo{\'e} and Sugier, Pierre-Emmanuel and Granell, Raquel and %Jarvis, Debbie and Dizier, Marie-H{\'e}l{\`e}ne and Ege, Markus and Imboden, Medea %and Laprise, Catherine and Khusnutdinova, Elza K and Freidin, Maxim B and others},
+  journal={Journal of Allergy and Clinical Immunology},
+  volume={138},
+  number={4},
+  pages={1071--1080},
+  year={2016},
+  publisher={Elsevier},
+  keywords = {application}
+}
+
+@article{servy2016merkel,
+  title={Merkel cell carcinoma: value of sentinel lymph-node status and adjuvant %radiation therapy},
+  author={Servy, A and Maubec, E and Sugier, PE and Grange, F and Mansard, S and %Lesimple, T and Marinho, E and Couturaud, B and Girod, A and Albert, S and others},
+  journal={Annals of Oncology},
+  volume={27},
+  number={5},
+  pages={914--919},
+  year={2016},
+  publisher={Elsevier},
+  keywords = {application}
+}
+
+
+
+
+

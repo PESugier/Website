@@ -1,0 +1,6 @@
+/* css styles */
+
+table td:first-child {
+  white-space: nowrap;
+  width: 110px;
+}
