@@ -1,6 +1,6 @@
 ---
 title: "Pierre-Emmanuel Sugier"
-image: image/pe_rando_touraine.jpeg
+image: image/photo_PE_SUGIER_small.jpg
 toc: false
 about: 
   template: jolla

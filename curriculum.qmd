@@ -54,7 +54,7 @@ My research is structured around two complementary directions: the development o
 
 | Year | Degree | Institution |
 |-----|-----|-----|
-| **2018** | PhD in Public Health (Epidemiology and Biomedical Information Science) | Sorbonne University |
+| **2018** | PhD in Epidemiology and Biomedical Information Science | Sorbonne University |
 | **2012** | ISUP Diploma in Statistics (Biostatistics) | Institute of Statistics, Sorbonne University |
 | **2012** | MSc in Mathematics and Applications (Statistics) | Sorbonne University |
 | **2012** | Inter-University Diploma in Statistics for Public Health, Medicine and Biology (CESAM) | Sorbonne University |
