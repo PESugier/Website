@@ -16,8 +16,11 @@ about:
       icon: envelope
     - text: LinkedIn
       href: https://www.linkedin.com/in/pierre-emmanuel-sugier-450a18b2/
+    - text: OrcID
+      href: https://orcid.org/0000-0002-5846-1104
+      icon: OrcID
 ---
 
 Since September 2024, I have been an Associate Professor at Université Paris Cité. I conduct my teaching within the Faculty of [Mathematics and Computer Science](https://math-info.u-paris.fr/) and carry out my research at the [MAP5 Laboratory](https://map5.mi.parisdescartes.fr/) (CNRS UMR 8145). I am also an associated researcher with the [Exposome and Heredity](https://cesp.inserm.fr/fr/node/3) team at the Center for Epidemiology and Population Health (CESP), Inserm.
 
-_Depuis septembre 2024, je suis maître de conférences à l'Université Paris Cité. J'effectue mes recherches au sein de l'UFR de Mathématiques et Informatique, et mes recherches au sein du laboratoire MAP5 (CNRS UMR 8145). Je suis également chercheur associé dans l'équipe Exposome et Hérédité du Centre de recherche en Epidémiologie et Santé des Populations (CESP) de l'Inserm._
+*Depuis septembre 2024, je suis maître de conférences à l'Université Paris Cité. J'effectue mes recherches au sein de l'UFR de Mathématiques et Informatique, et mes recherches au sein du laboratoire MAP5 (CNRS UMR 8145). Je suis également chercheur associé dans l'équipe Exposome et Hérédité du Centre de recherche en Epidémiologie et Santé des Populations (CESP) de l'Inserm.*
