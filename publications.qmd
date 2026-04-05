@@ -50,6 +50,7 @@ bucket <- function(kws) {
   if ("method" %in% kws) return("method")
   if ("application_advanced" %in% kws) return("application_advanced")
   if ("application" %in% kws) return("application")
+  if ("preprint" %in% kws) return("preprint")
   "Other"
 }
 
@@ -193,7 +194,8 @@ tagList(
   tags$div(class="pub-wrap",
     render_section("Methodological research in biostatistics and software implementation","method"),
     render_section("Applications of advanced statistical methods", "application_advanced"),
-    render_section("Other applications", "application")
+    render_section("Other applications", "application"),
+    render_section("preprint", "application")
   )
 )
 ```
