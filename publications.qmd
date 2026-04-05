@@ -54,6 +54,7 @@ bucket <- function(kws) {
   "Other"
 }
 
+
 # Convertit "First Middle" ou "Pierre-Emmanuel" -> "P.-E."
 initials <- function(first) {
   first <- stringr::str_squish(first)
