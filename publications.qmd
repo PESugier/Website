@@ -196,7 +196,7 @@ tagList(
     render_section("Methodological research in biostatistics and software implementation","method"),
     render_section("Applications of advanced statistical methods", "application_advanced"),
     render_section("Other applications", "application"),
-    render_section("preprint", "application")
+    render_section("preprint", "preprint")
   )
 )
 ```
